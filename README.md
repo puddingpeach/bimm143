@@ -1,2 +1,2 @@
 # bimm143
-My classowrk from BIMM 143 at UCSD.
+My classwork from BIMM 143 at UCSD.
