@@ -1,7 +1,7 @@
 ---
 title: "Class 7: Machine Learning I"
 author: "Cynthia Lin"
-format: pdf
+format: gfm
 ---
 
 ## K-means
