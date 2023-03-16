@@ -10,7 +10,7 @@ My classwork from [BIMM 143](https://bioboot.github.io/bimm143_W23/) at UC San D
 
 - Class 7: [Machine learning for Bioinformatics 1](https://github.com/puddingpeach/bimm143/blob/main/class07/class07.pdf)
 
-- Class 8: [Unsupervised Learning mini project](https://github.com/puddingpeach/bimm143/blob/main/class08_mini_project/class08.qmd)
+- Class 8: [Unsupervised Learning mini project](https://github.com/puddingpeach/bimm143/blob/main/class08_mini_project/class08.md)
 
 - Class 17: [Vaccination rate mini project](https://github.com/puddingpeach/bimm143/blob/main/class17_new/class17.md)
 
