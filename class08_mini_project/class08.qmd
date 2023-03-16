@@ -1,7 +1,7 @@
 ---
 title: "Class 8: Machine Learning Mini Project"
 author: "Cynthia Lin"
-format: pdf
+format: gfm
 ---
 
 In today's mini project we will explore a complete analysis using the unsupervised learning techniques covered in class (clustering and PCA for now). 
